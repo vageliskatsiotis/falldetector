@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fall Detector</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action">action</string>
+    <string name="set_phone_name_warning">You should set phone number.</string>
+    <string name="ok">Ok</string>
+
+</resources>

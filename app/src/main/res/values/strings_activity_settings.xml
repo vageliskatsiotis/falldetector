@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="key_phone_number">default phone number</string>
+    <string name="title_phone_number">Default phone number</string>
+
+    <string name="key_boundary">boundary</string>
+    <string name="title_boundary">Boundary</string>
+
+</resources>
